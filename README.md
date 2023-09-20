@@ -6,7 +6,7 @@
 
 1. Note: in this configuration you **don't need** to have openodc running on one terminal
 
-2. sumply, do the follwoing on a single terminal
+2. simply, do the follwoing on a single terminal
 ```bash
 cargo run --release --example blinky
 cargo run --release --example rtt_hello_world
