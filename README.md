@@ -14,11 +14,12 @@ cargo run --release --example rtt_hello_world
 
 ## References
 
-crates:
- * https://crates.io/crates/stm32l4xx-hal
-
 datasheet:
  * https://www.st.com/resource/en/datasheet/stm32l432kb.pdf
+ * https://www.st.com/resource/en/reference_manual/dm00151940-stm32l41xxx-42xxx-43xxx-44xxx-45xxx-46xxx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf
+
+crates:
+ * https://crates.io/crates/stm32l4xx-hal
 
 rtt:
  * https://docs.rs/rtt-target/latest/rtt_target/index.html
